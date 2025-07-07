@@ -19,3 +19,29 @@ curl http://localhost
 sudo systemctl status apache2
 cd /var/www/html
 sudo nano index.html
+whoami
+uname -a
+hostname
+free -h
+df -h
+pwd
+ls -l
+date
+git init
+ls
+touch README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/0011Ashwin/VM---Azure.git
+git push -u origin main
+ls
+git pull
+git status
+git add .
+git commit -m "connection file"
+git push origin main
+git status
+ls
+git pull
+git log
